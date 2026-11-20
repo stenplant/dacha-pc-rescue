@@ -1,0 +1,9 @@
+*.img
+*.wim
+*.bin
+*.rom
+*.F2[0-9]
+*.23b
+*.ffs
+__pycache__/
+
